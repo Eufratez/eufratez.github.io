@@ -9,21 +9,16 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+<!DOCTYPE html>
+<html>
+	<body>
+	<h1> My first HTML file <3</h1><br>
+	<p>Welcome to my family site </p><br>
+	<p>For any other questions about this web page please go <a href="https://github.com/Eufratez">here</a></p>
+	<p> <img src="https://c.tenor.com/1GFGoqTI4F0AAAAC/welcome-to-the-team-minions.gif=true"></p><br>
+	</body>
+	
+</html>
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
